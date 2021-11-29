@@ -8,5 +8,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello xuhao");
         System.out.println("hot-fix");
+
+        System.out.println("modify by hot-fix");
     }
 }
