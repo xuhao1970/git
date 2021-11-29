@@ -10,5 +10,7 @@ public class hello {
         System.out.println("hot-fix");
 
         System.out.println("modify at master");
+
+        System.out.println("modify by hot-fix");
     }
 }
